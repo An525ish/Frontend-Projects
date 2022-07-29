@@ -17,7 +17,7 @@
 }
 
 .showcase{
-    width: 25%;
+    width: 15em;
     text-align: center;
     background-color: white;
     padding : 1em;
@@ -31,9 +31,4 @@
 }
 .showcase h2{
     margin : 1em 0;
-}
-@media (max-width : 900px){
-    .showcase{
-        width : 65%;
-    }
 }
